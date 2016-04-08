@@ -1,6 +1,6 @@
 INSTALLATION
 
-go get github.com/markbates/inflect
+go get github.com/bep/inflect
 
 PACKAGE
 
